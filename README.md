@@ -1,2 +1,2 @@
 # profile
-My short introduction access page through: https://emm4pr.github.io/profile/
+Short introduction to myself. Access page through: https://emm4pr.github.io/profile/
