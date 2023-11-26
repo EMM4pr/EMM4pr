@@ -1,48 +1,176 @@
 @import url(https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500&family=Space+Mono:ital@0;1&display=swap);
 @import url(https://use.fontawesome.com/releases/v6.1.2/css/all.css);
+@import url(https://fonts.googleapis.com/css2?family=Noto+Serif:wght@200;400&display=swap);
+
+
+.container {
+  font-family: 'Noto Serif', serif;
+  background-color: white;
+  padding: 20px;
+  width: 800px;
+  /*  margin: 25px auto;*/
+  border-radius: 10px;
+  border: 1px solid #FAF6F0;
+  margin-bottom: 40px;
+}
+
+.card-white {
+  font-family: 'Noto Serif', serif;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-left: 90px;
+  padding-right: 90px;
+  background-color: white;
+  box-shadow: 0px 5px 6px rgba(188, 186, 186, 0.66);
+  border-radius: 4px;
+  margin: 60px;
+  text-align: center;
+}
+
+.card {
+  font-family: 'Noto Serif', serif;
+  border: 5px solid;
+  border-color: #9bbec888 !important;
+  background-color: #9bbec888 !important;
+  width: 450px !important;
+  height: 450px !important;
+  margin: 10px;
+  float: none;
+  margin-bottom: 10px;
+}
 
 .img-circle{
+  margin: 30px;
   border-radius: 50%;
   justify-content: center;
 }
 
-.logo{
+.pictures {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.picture-row {
+  display: grid;
+}
+
+.img {
+  justify-content: center;
+  margin: 10px;
+}
+
+.logo {
   width: 12%;
 }
 
-.shadowed{
+.text_block {
+  color: black;
+  text-align: justify;
+  background-color: #93BFCF;
+  border-radius: 10px;
+  padding: 35px;
+  word-spacing: 2px;
+}
+
+.shadowed {
   box-shadow: 5px 5px 5px rgb(200, 196, 196);
 }
 
-.container{
-    background-color: rgba(255, 255, 255, 0.838);
-    padding:35px;
-    width: 800px;
-    margin: 25px auto;
-    border-radius: 10px;
-    border: 1px solid #EAEAEA;
-  }
-
-.card-white{
-  background-color: white;
-  padding: 35px;
-  box-shadow: 0px 5px 5px rgba(0,0,0,0.1);
-  border-radius: 4px;
-  margin: 20px auto;
-  text-align: center;
+.card-title{
+  font-weight: 600;
+  margin: 5px;
+  text-align-last: center;
 }
-.card{
+
+/* Tech Stack */
+.image-container {
+  display: flex;
+  justify-content: space-around;
+  z-index: 99999;
+  position: relative;
+  display: inline-block;
+}
+
+.image-small {
+  margin: 15px;
+  height: 70px;
+  display: block;
+  position: relative;
+}
+
+.image-info {
+  visibility: hidden;
+}
+
+.info-link {
+  word-spacing: 0;
+  font-weight: 400;
+  color: black;
+  text-decoration: none;
+}
+
+.info-link:hover {
+  color: hotpink;
+}
+
+.languages {
+  margin-top: 20px;
+  margin-bottom: 40px;
+  justify-content: space-evenly;
+}
+
+.tech-stack {
+  padding-left: 150px;
+  padding-right: 150px;
+}
+
+.image-container .image-info {
+  font-size: 15px;
+  position: absolute;
+  bottom: 5;
+  left: 0;
+  width: 100%;
+  text-align: center;
+  color: hotpink;
+  /* padding: 10px; */
+  box-sizing: border-box;
+  visibility: hidden;
+  transition: visibility 0.1s ease-in-out;
+}
+
+.image-container:hover .image-info{
+  visibility: visible;
+}
+
+/* Projects */
+.projects {
+  justify-content: space-evenly;
   margin: 10px;
-  margin: 0 auto;
-  float: none;
-  margin-bottom: 10px;
+  margin-bottom: 50px;
+  align-items: center;
+}
+
+.carousel-item img {
+  width: 100%; /* Make the images fill the entire carousel */
+  height: 220px; /* Maintain aspect ratio */
+}
+
+.card-img-top img {
+  width: 100%;
+  height: 220px;
+}
+
+.card-img-top video {
+  width: 100%;
+  height: 220px;
 }
 
 .button:hover {
   color: #BC7AF9;
 }
 
-body{
+body {
   font-family: Space Grotesk;
   background-color: #E4E4D0;
   color: #5C8374;
@@ -50,23 +178,25 @@ body{
   text-align: center;
 }
 
-h1, h2, h3, h4, h5{
+h1, h2, h3 {
+
+  margin-top: 60px;
   font-family: Space Grotesk;
   color: #183D3D;
   text-align: center;
-  letter-spacing: 3px;
-  padding: 20px;
+  letter-spacing: 4px;
 }
 
-li{
+li {
   display: inline;
 }
 
-ul{
+ul {
+  text-align: center;
   padding: 0;
 }
 
-a{
+a {
   text-decoration: none;
   color: #183D3D;
   font-weight: bold;
@@ -74,6 +204,10 @@ a{
   letter-spacing: 3px;
 }
 
+p {
+  margin-top: 20px;
+  text-align: justify;
+}
 
 #profile-pic {
   width: 300px;
