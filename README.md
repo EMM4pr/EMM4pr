@@ -1,4 +1,4 @@
-<p align="center"> <h1 align="center"> Hi, I'm Emma </h1> </p>
+<p align="center"> <h1 align="center"> Hi, I'm Emma ... </h1> </p>
 <p align="center">
 <a href="https://www.linkedin.com/in/emma-preysing/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="Logo" height="20" width="20" /></a>
 
