@@ -5,6 +5,7 @@
 Hi I'm Emma, a Robotics grad sculpting my path through tech's exciting landscapes, blending learning with hands-on experiences and a touch of creative flair.
 
 👻 A short introduction to myself. Access page through: https://emm4pr.github.io/profile/
+
 ❤️ Eager to expand my horizons. Whether it's crafting a website from scratch or enhancing an existing one, let's connect and explore the possibilities together!
 
 <!--
@@ -23,6 +24,6 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-	<img src=https://github-readme-stats.vercel.app/api?username=elangosundar&show_icons=true alt=Elangovan />
+	<img src=https://github-readme-stats.vercel.app/api?username=EMM4pr&show_icons=true alt=Elangovan />
 </p>
 
