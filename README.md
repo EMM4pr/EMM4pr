@@ -1,25 +1,32 @@
 <p align="center"> <h1 align="center"> Hi, I'm Emma ... </h1> </p>
 <p align="center">
-<a href="https://www.linkedin.com/in/emma-preysing/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="Logo" height="20" width="20" /></a>
 
-... a Robotics grad sculpting my path through tech's exciting landscapes, blending learning with hands-on experiences and a touch of creative flair.
 
-❤️ Eager to expand my horizons. Whether it's crafting a website from scratch or enhancing an existing one, let's connect and explore the possibilities together!
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px">
+</p>
 
-<!--
-**elangosundar/elangosundar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+   <span style="color:#ff6600;">... a 🚀 tech enthusiast, data nerd, and project coordinator at <span style="color:#0072c6;">Tesla ⚡</span>. <br>
+  I love working on <em>data engineering, automation, and process optimization</em> to make work smoother and smarter.
+</p>
 
-Here are some ideas to get you started:
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔹 What I do:  
+- 🛠️ **Building dashboards & automation tools**  
+- 📊 **Making sense of data & tracking KPIs**  
+- 🤖 **Exploring AI & machine learning for efficiency**  
+
+### 🔹 Tech I work with:  
+- ⚡ SQL (**MySQL, ClickHouse**)  
+- 🐍 Python & data visualization  
+- 📊 Power BI & dashboarding  
+- 🏢 Confluence & Microsoft Teams automation  
+
+### 🌱 Currently learning:  
+**Advanced data engineering**  
+  
 
 <p align="center">
 	<img src=https://github-readme-stats.vercel.app/api?username=EMM4pr&show_icons=true alt=Elangovan />
